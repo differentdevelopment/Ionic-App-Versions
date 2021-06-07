@@ -1,0 +1,18 @@
+{
+    "CityFood-desktop": {
+        "version": "1.0.0",
+        "forceUpdate": true
+    },
+    "myPatent-desktop": {
+        "version": "1.4.0",
+        "forceUpdate": true
+    },
+    "myPatent-ios": {
+        "version": "1.4.0",
+        "forceUpdate": true
+    },
+    "myPatent-android": {
+        "version": "1.4.0",
+        "forceUpdate": true
+    }
+}
